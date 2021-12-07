@@ -45,8 +45,7 @@ Integrantes del equipo:
   
   
   
-
-                 07 de diciembre del 2021
+07 de diciembre del 2021
 
 
 ## Introducción  
